@@ -2,7 +2,7 @@
 
 ## Windows
 
-> para iniciar el servidor de bases de datos MySQL es Windows 
+> para iniciar el servidor de bases de datos MySQL en Windows 
 > debo utilizar el administrador de servicios
 
 1. Presionar la combinación de teclas WIN + R, escribir "services.msc" y pulsar Enter
@@ -11,10 +11,13 @@
 
 ## Ubuntu
 
+> para iniciar el servidor de bases de datos en MySQL en Ubuntu puedo utilizar una terminal
+
 1. Abrir la terminal
 2. Para iniciar el servicio MySQL, ejecutar:
+ 
 
-    systemctl start mysql  
+      systemctl start mysql  
 
 
 > Para detener el servicio MySQL, ejecutar:
