@@ -15,10 +15,10 @@
 
 1. Abrir la terminal
 2. Para iniciar el servicio MySQL, ejecutar:
- 
 
-      systemctl start mysql  
-
+```
+   systemctl start mysql  
+```
 
 > Para detener el servicio MySQL, ejecutar:
 
