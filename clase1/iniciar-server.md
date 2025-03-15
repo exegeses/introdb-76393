@@ -12,4 +12,17 @@
 ## Ubuntu
 
 1. Abrir la terminal
-2. mysql -u root -p
+2. Para iniciar el servicio MySQL, ejecutar:
+
+    systemctl start mysql  
+
+
+> Para detener el servicio MySQL, ejecutar:
+
+    systemctl stop mysql  
+
+
+> Para verificar el estado del servicio MySQL, ejecutar:
+
+    systemctl status mysql  
+
